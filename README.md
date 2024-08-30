@@ -6,4 +6,4 @@ Reconheço que ainda estou em início de carreira na área de TI e, portanto, mi
 
 Estou deixando também o link de um video no youtube para validar que foi eu mesmo realizei fiz, vou deixa no modo rapido e também no modo listado.
 
-https://youtu.be/jGpj02PIUdQ http://localhost:8502/
+http://localhost:8502/
